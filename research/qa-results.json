@@ -1,0 +1,25 @@
+{
+  "pages": 40,
+  "viewports": [
+    1440,
+    390,
+    320
+  ],
+  "failures": [],
+  "errors": [],
+  "checkedAt": "2026-09-13T05:15:51.190Z",
+  "checks": [
+    "links and anchors",
+    "one H1",
+    "all images",
+    "desktop/mobile overflow",
+    "no motion",
+    "shared mega/mobile navigation",
+    "search/empty/injection",
+    "work filters",
+    "Brief validation/download",
+    "Index fences/jumps/empty/download",
+    "proposal/download",
+    "file:// tools/search"
+  ]
+}

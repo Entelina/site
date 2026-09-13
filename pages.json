@@ -1,0 +1,207 @@
+[
+  {
+    "file": "index.html",
+    "title": "共同探索，持续创造",
+    "group": "home"
+  },
+  {
+    "file": "products.html",
+    "title": "产品",
+    "group": "products"
+  },
+  {
+    "file": "showcase.html",
+    "title": "作品",
+    "group": "showcase"
+  },
+  {
+    "file": "editions.html",
+    "title": "期刊归档",
+    "group": "showcase"
+  },
+  {
+    "file": "issue-000.html",
+    "title": "第 000 期 · 展开",
+    "group": "showcase"
+  },
+  {
+    "file": "resources.html",
+    "title": "资源中心",
+    "group": "resources"
+  },
+  {
+    "file": "docs.html",
+    "title": "文档",
+    "group": "resources"
+  },
+  {
+    "file": "use-cases.html",
+    "title": "Entelina 用例",
+    "group": "resources"
+  },
+  {
+    "file": "handbook.html",
+    "title": "实用手册",
+    "group": "resources"
+  },
+  {
+    "file": "developer-showcase.html",
+    "title": "开发者案例展示",
+    "group": "resources"
+  },
+  {
+    "file": "developer-blog.html",
+    "title": "开发者博客",
+    "group": "resources"
+  },
+  {
+    "file": "changelog.html",
+    "title": "Entelina 更新日志",
+    "group": "resources"
+  },
+  {
+    "file": "developers.html",
+    "title": "开发者入口",
+    "group": "resources"
+  },
+  {
+    "file": "community.html",
+    "title": "社区",
+    "group": "community"
+  },
+  {
+    "file": "about.html",
+    "title": "关于 Entelina",
+    "group": "about"
+  },
+  {
+    "file": "brand.html",
+    "title": "品牌资产",
+    "group": "about"
+  },
+  {
+    "file": "search.html",
+    "title": "搜索",
+    "group": "resources"
+  },
+  {
+    "file": "404.html",
+    "title": "页面未找到",
+    "group": "home"
+  },
+  {
+    "file": "product-brief.html",
+    "title": "Brief · 创作简报",
+    "group": "products"
+  },
+  {
+    "file": "product-index.html",
+    "title": "Index · 文档结构",
+    "group": "products"
+  },
+  {
+    "file": "contribute.html",
+    "title": "准备共创提案",
+    "group": "community"
+  },
+  {
+    "file": "docs-start.html",
+    "title": "第一次来到 Entelina",
+    "group": "resources"
+  },
+  {
+    "file": "docs-products.html",
+    "title": "Brief 与 Index 使用说明",
+    "group": "resources"
+  },
+  {
+    "file": "docs-publishing.html",
+    "title": "产品与作品发布指南",
+    "group": "resources"
+  },
+  {
+    "file": "case-brief.html",
+    "title": "从想法到创作简报",
+    "group": "resources"
+  },
+  {
+    "file": "case-reading.html",
+    "title": "为长文档建立阅读地图",
+    "group": "resources"
+  },
+  {
+    "file": "handbook-prompt.html",
+    "title": "一份清晰提示的四个部分",
+    "group": "resources"
+  },
+  {
+    "file": "handbook-review.html",
+    "title": "如何给出有用的作品反馈",
+    "group": "resources"
+  },
+  {
+    "file": "devcase-static.html",
+    "title": "一个无构建依赖的多页面官网",
+    "group": "resources"
+  },
+  {
+    "file": "devcase-markdown.html",
+    "title": "从 Markdown 到结构索引",
+    "group": "resources"
+  },
+  {
+    "file": "blog-local.html",
+    "title": "先让工具在本地成立",
+    "group": "resources"
+  },
+  {
+    "file": "blog-design.html",
+    "title": "AI 产品的秩序感来自哪里",
+    "group": "resources"
+  },
+  {
+    "file": "work-unfolding.html",
+    "title": "展开 / The Unfolding",
+    "group": "showcase"
+  },
+  {
+    "file": "work-identity.html",
+    "title": "共同的标记 / A Shared Mark",
+    "group": "showcase"
+  },
+  {
+    "file": "guidelines.html",
+    "title": "发布与交流规范",
+    "group": "community"
+  },
+  {
+    "file": "roadmap.html",
+    "title": "发展路线",
+    "group": "community"
+  },
+  {
+    "file": "privacy.html",
+    "title": "隐私与本地数据",
+    "group": "about"
+  },
+  {
+    "file": "release-02.html",
+    "title": "多页面官网初版",
+    "group": "resources"
+  },
+  {
+    "file": "release-01.html",
+    "title": "品牌与首页初稿",
+    "group": "resources"
+  },
+  {
+    "file": "release-03.html",
+    "title": "标志与说明修订",
+    "group": "resources"
+  },
+  {
+    "file": "sitemap.html",
+    "title": "网站地图",
+    "group": "about"
+  }
+]
